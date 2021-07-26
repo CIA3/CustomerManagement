@@ -1,0 +1,27 @@
+*{
+	margin :0;
+	padding:0;
+}
+
+.header{
+	height :100px;
+}
+
+.navbar-style{
+	box-shadow:0px 5px 10px #efefef;
+	text-transform:uppercase;
+}
+
+.icon-bar{
+	background:darkorange;
+}
+
+
+.logo{
+	height :48px;
+	padding :2px 10px;
+}
+
+li a{
+	color:black;
+}
